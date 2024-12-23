@@ -4,7 +4,7 @@ This project demonstrates a simple text summarization web application built usin
 
 ## Demo
 
-You can try out a live demo of the app on Hugging Face Spaces: https://huggingface.co/antonsoloviev/text-summarization-app
+You can try out a live demo of the app on Hugging Face Spaces: https://huggingface.co/spaces/antonsoloviev/text-summarization-app
 
 ## Project Description
 
