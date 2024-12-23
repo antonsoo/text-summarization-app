@@ -74,6 +74,8 @@ Contact:
 
 Anton Soloviev - UpWork: https://www.upwork.com/freelancers/~01b9d171164a005062
 
+------------------
+
 Acknowledgements:
 
 Hugging Face for the Transformers library and the pre-trained models.
