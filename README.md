@@ -21,6 +21,8 @@ The app is built using Streamlit, a Python framework that makes it easy to creat
 
 ## Installation
 
+Note: You can look at my Google Colab Notebook in the notebooks directory in this project. Otherwise:
+
 To run this app locally, you need to have Python 3.7 or higher installed, along with the following packages:
 
 ```bash
